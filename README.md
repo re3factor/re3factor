@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**re3factor/re3factor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<a href="https://app.daily.dev/r3factor"><img src="https://api.daily.dev/devcards/56dc0aaf20b24c6abedaea31a4278952.png?r=9uy" width="400" alt="Nicholas Bates's Dev Card"/></a>
 
 - 🔭 I’m currently working on infrastructure and security
 - 🌱 I’m currently learning Python, Go, and Terraform
@@ -11,4 +8,3 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with everything...
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a wrestling head coach
--->
